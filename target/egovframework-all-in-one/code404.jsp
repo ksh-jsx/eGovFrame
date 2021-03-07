@@ -28,7 +28,7 @@ function fncGoAfterErrorPage(){
 			<div class="box">
 				<div class="error">
 					<p class="title">HTTP 404 Error</p>
-					<p class="cont mb20">웹a 페이지를 찾을 수 없습니다.<br /></p>
+					<p class="cont mb20">웹b 페이지를 찾을 수 없습니다.<br /></p>
 					<span class="btn_style1 blue"><a href="javascript:fncGoAfterErrorPage();">이전 페이지</a></span>
 				</div>
 			</div>
